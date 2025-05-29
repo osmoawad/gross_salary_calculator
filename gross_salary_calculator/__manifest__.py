@@ -5,7 +5,7 @@
     "version": "1.3",
     "summary": "Calculate gross salary from net",
     "category": "Human Resources",
-    "depends": ["hr"],
+    "depends": ["hr","hr_contract"],
     "data": [
         "views/hr_contract_views.xml"
     ],
