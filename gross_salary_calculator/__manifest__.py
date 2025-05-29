@@ -9,6 +9,10 @@
     "data": [
         "views/hr_contract_views.xml"
     ],
+    'images': [
+        'static/description/icon.jpeg',
+        'static/description/conver.jpeg',
+    ],
     "installable": True,
     "application": False,
     "license": "LGPL-3"
