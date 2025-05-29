@@ -11,7 +11,7 @@
     ],
     'images': [
         'static/description/icon.jpeg',
-        'static/description/conver.jpeg',
+        # 'static/description/conver.jpeg',
     ],
     "installable": True,
     "application": False,
